@@ -239,3 +239,12 @@ CACHES = {
         'LOCATION': os.path.join(BASE_DIR, 'cache')
     },
 }
+
+ERP_HOST = 'http://erpapi.ufanet.ru'
+ERP_USER = 'ufanetru'
+ERP_PASSWORD = 'ufanetru123'
+
+ERP_API = '/user/plugin/ufanet/ufanetapi.do'
+
+API_APP_KEY = ''
+API_HOST = ''
